@@ -1,0 +1,24 @@
+{
+  "name": "playwright-learning",
+  "version": "1.0.0",
+  "description": "This repo I am learnig Playwrigh using TS and other different libararies",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pankaj0x/Playwright-learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/pankaj0x/Playwright-learning/issues"
+  },
+  "homepage": "https://github.com/pankaj0x/Playwright-learning#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.54.1",
+    "@types/node": "^24.1.0",
+    "allure-playwright": "^3.3.2"
+  }
+}
